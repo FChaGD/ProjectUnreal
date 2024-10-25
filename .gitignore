@@ -69,6 +69,7 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/*/Intermediate/*
+UntitledAdventure/Content/통합/Asset/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
